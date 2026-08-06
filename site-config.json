@@ -1,0 +1,41 @@
+{
+  "site": {
+    "name": "Wesley Deep Biswas",
+    "discipline": "Photographer / Hobbyist",
+    "email": "wesleybiswas@gmail.com",
+    "location": "Dhaka, Bangladesh",
+    "socials": [
+      { "label": "X / Twitter", "href": "https://x.com/WesleyBiswas" },
+      { "label": "Instagram", "href": "https://www.instagram.com/wilderapix" }
+    ]
+  },
+  "hero": {
+    "intro": ["Images with a pulse.", "Moments with room to breathe."],
+    "videos": [
+      "https://res.cloudinary.com/u2jtfpnb/video/upload/v1786051142/output3_abfnlk.webm",
+      "https://res.cloudinary.com/u2jtfpnb/video/upload/v1786051140/output1_whi20j.webm",
+      "https://res.cloudinary.com/u2jtfpnb/video/upload/v1786051141/output2_rmkfjm.webm"
+    ],
+    "poster": "/wide_1.webp"
+  },
+  "work": {
+    "eyebrow": "Selected work", 
+    "title": ["A collection of", "small moments."],
+    "note": "A visual practice rooted in honest connection, natural light, and the beautiful in-between.",
+    "contactLabel": "Work with Wesley"
+  },
+  "about": {
+    "eyebrow": "A little about me",
+    "title": ["Making space", "for the real."],
+    "image": "/avatar.webp",
+    "imageAlt": "Wesley Deep Biswas smiling in a sunlit studio portrait",
+    "paragraphs": [
+      "I'm Wesley. I shoot birds, bugs, flowers, whatever's around — I'm not picky. No clients, no bookings, no deadlines to hit. Just me with a camera, trying to notice things before they're gone.",
+      "Some days it's a pigeon on a branch that happens to catch the light right. Some days it's a bee doing its thing on a flower nobody else is looking at. Most of it isn't planned. I just walk around, pay attention, and shoot what stops me."
+    ],
+    "linkLabel": "Start a conversation"
+  },
+  "footer": {
+    "eyebrow": "Let's make something"
+  }
+}
